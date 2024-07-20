@@ -1,0 +1,10 @@
+flask
+transformers
+torch
+faiss-cpu
+PyMuPDF
+python-docx
+python-pptx
+langchain_community
+langchain_huggingface
+langchain_groq
